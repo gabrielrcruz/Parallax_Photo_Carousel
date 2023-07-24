@@ -7,7 +7,8 @@ html, body, .stage, .ring, .img {
 
 html, body, .stage {
   overflow:hidden;
-  background:#2d3f4e;  
+  background:#2d3f4e;
+  
 }
 
 div, svg {
